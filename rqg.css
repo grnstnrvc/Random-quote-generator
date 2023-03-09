@@ -36,7 +36,7 @@ header, .content :where(i, p, span){
   justify-content: center;
 }
 .quote-area i{
-  font-size: 1p6x;
+  font-size: 16x;
 }
 .quote-area i:first-child{
   margin: 3px 10px 0 0;
@@ -105,10 +105,10 @@ ul .speech.active{
   font-size: 16px;
   cursor: pointer;
   padding: 13px 22px;
-  border-radius: 30px;
+  border-radius: 32px;
   background: #5372F0;
 }
 .buttons button.loading{
-  opacity: 0.7;
+  opacity: 0.6;
   pointer-events: none;
 }
