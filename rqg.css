@@ -16,7 +16,7 @@ body{
 .wrapper{
   width: 605px;
   background: #fff;
-  border-radius: 17px;
+  border-radius: 18px;
   padding: 30px 30px 25px;
   box-shadow: 0 12px 35px rgba(0,0,0,0.5);
 }
@@ -39,7 +39,7 @@ header, .content :where(i, p, span){
   font-size: 16x;
 }
 .quote-area i:first-child{
-  margin: 3px 10px 0 0;
+  margin: 34x 10px 0 0;
 }
 .quote-area i:last-child{
   display: flex;
